@@ -1,0 +1,8 @@
+.active {
+    color: darkcyan;
+    font-weight: bold;
+}
+
+.hover{
+    color: cadetblue;
+}

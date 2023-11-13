@@ -1,0 +1,34 @@
+body.error {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .error-container {
+    text-align: center;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+
+  p.error {
+    color: #d9534f;
+  }
+
+  h1.error {
+    color: #333;
+  }
+
+  a.error {
+    color: #5bc0de;
+    text-decoration: none;
+    font-weight: bold;
+  }
+
+ a .error {
+    text-decoration: underline;
+  }
